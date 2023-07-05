@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi, I'm Joelfm4 ✋
 
-<!--
-**Joelfm4/Joelfm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Joel, I'm 18 years old, and I'm passionate about programming and technology. 👩‍💻
+- 📖 Studying 📙HTML5, 📘CSS3 & 📒JS.
+- 📚 Knowledge 📗SQL & 🐍Python.
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div alignitems="center" justifycontent="center">
+ <img height="160em" width="50%" margin-right="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelfm4&layout=compact&langs_count=7&theme=transparent&include_allcommits=true"/>
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joelfm4&hide_border=false&theme=transparent"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joelfm4&show_icons=true&theme=transparent)
+
+</div>
+
+<div align="center" style="display: inline_block"><br>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<a href="https://skillicons.dev">
+<img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=mysql"/>
+</a>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+<hr/>
+
+<div align="center">
+  <a href="https://www.instagram.com/joel_fmarques_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joelbemarques@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joel-marques-10483a1a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>

@@ -10,7 +10,9 @@
  <img height="160em" width="50%" margin-right="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelfm4&layout=compact&langs_count=7&theme=transparent&include_allcommits=true"/>
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joelfm4&hide_border=false&theme=transparent"/>
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joelfm4&show_icons=true&theme=transparent)
+-->
 
 </div>
 

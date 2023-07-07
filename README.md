@@ -1,10 +1,22 @@
-### Hi, I'm Joelfm4 ✋
+<br>
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0290FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+there+👋;)](https://git.io/typing-svg)
+
+<br>
+
+## Public information
 
 - My name is Joel, I'm 18 years old, and I'm passionate about programming and technology. 👩‍💻
 - 📖 Studying 📙HTML5, 📘CSS3 & 📒JS.
 - 📚 Knowledge 📗SQL & 🐍Python.
 
-###
+<br>
+
+
+
+## My Statistics
 
 <div alignitems="center" justifycontent="center">
  <img height="160em" width="50%" margin-right="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelfm4&layout=compact&langs_count=7&theme=transparent&include_allcommits=true"/>

@@ -8,7 +8,7 @@
 
 ## Public information
 
-- My name is Joel, I'm 18 years old and I'm passionate about programming, technology and economics. 👩‍💻
+- My name is Joel, I'm 19 years old and I'm passionate about programming, technology and economics. 👩‍💻
 - 📖 Studying 📙HTML5, 📘CSS3 & 📒JS.
 - 📚 Knowledge 📗SQL & 🐍Python.
 

@@ -8,9 +8,10 @@
 
 ## Public information
 
-- My name is Joel, I'm 19 years old and I'm passionate about programming, technology and economics. 👩🏽‍💻💰
-- 📖 Studying  📘 Type Script.
-- 📚 Knowledge 📗SQL & 🐍Python & 📙HTML5 & 📘CSS3.
+- My name is Joel, I'm 19 years old and I like learning everything. 👩🏽‍💻💰
+- I am currently studying a degree in business management and deepening my knowledge in data analysis.
+
+- 📚 Knowledge 📗SQL & 🐍Python & 📙HTML5 & 📘CSS3 & JavaScript & Java & C#.
 
 <br>
 

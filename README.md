@@ -9,9 +9,8 @@
 ## Public information
 
 - My name is Joel, I'm 19 years old and I like learning everything.
-- I am currently studying a degree in business management and deepening my knowledge in data analysis. 👩🏽‍💻💰
 
-- 📚 Knowledge 📗SQL & 🐍Python & 📙HTML5 & 📘CSS3 & JavaScript & Java & C#.
+- 📚 Knowledge 📗SQL & 🐍Python & 📙HTML5 & 📘CSS3 & JavaScript & TypeScript & Java & C#.
 
 <br>
 

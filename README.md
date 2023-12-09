@@ -8,8 +8,6 @@
 
 ## Public information
 
-- My name is Joel, I'm 19 years old and I like learning everything.
-
 - 📚 Knowledge 📗SQL & 🐍Python & 📙HTML5 & 📘CSS3 & JavaScript & TypeScript & Java & C#.
 
 <br>

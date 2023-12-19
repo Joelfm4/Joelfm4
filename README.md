@@ -1,6 +1,5 @@
 <br>
 <br>
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0290FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+there+👋;)](https://git.io/typing-svg)
 
@@ -12,21 +11,17 @@
 
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F512px-Typescript_logo_2020.svg.png&f=1&nofb=1" /> TypeScript 
 
+<img width="20" src="https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png" /> Java Script
+
+<img width="20" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" /> Java
+
+<img width="20" src="https://th.bing.com/th/id/R.b4dd4c5e18b3c0a0c35018f37c2b2f94?rik=CNMbXnPRIg8zSA&pid=ImgRaw&r=0" /> C
+
+<img width="20" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-512.png" /> SQL
+
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1" /> ReactJS
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
-
-
-
-<!-- 
-<img width="20" src="" /> Java
-<img width="20" src="" /> Java Script
-<img width="20" src="" /> C
-<img width="20" src="" /> PHP
-<img width="20" src="https://clipart-library.com/newhp/microsoft-sql-server-microsoft-azure-sql-database-microsoft.jpg" /> SQL
--->
-
-
 
 <br>
 

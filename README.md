@@ -16,12 +16,14 @@
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
 
+
+
 <!-- 
 <img width="20" src="" /> Java
 <img width="20" src="" /> Java Script
 <img width="20" src="" /> C
 <img width="20" src="" /> PHP
-<img width="20" src="" /> SQL
+<img width="20" src="https://clipart-library.com/newhp/microsoft-sql-server-microsoft-azure-sql-database-microsoft.jpg" /> SQL
 -->
 
 

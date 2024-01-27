@@ -19,9 +19,12 @@
 
 <img width="20" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-512.png" /> SQL
 
-<img width="20" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1" /> ReactJS
 
+<!--
+<img width="20" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1" /> ReactJS
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
+-->
+
 
 <br>
 

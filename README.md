@@ -7,6 +7,34 @@
 
 ## Skills
 
+```
+#include <stdio.h>
+#include <string.h>
+
+struct Joel {
+    char* languages[6];
+    char* name;
+    int age;
+};
+
+int main() {
+    struct Joel joel = {
+        .languages = {"Python", "C", "SQL", "Java Script", "Java", "BASIC"},
+        .name = "Joel",
+        .age = 19
+    };
+
+    printf("Name: %s\n", joel.name);
+    printf("Age: %d\n", joel.age);
+    printf("Languages:\n");
+    for (int i = 0; i < 6; i++) {
+        printf("  %s\n", joel.languages[i]);
+    }
+
+    return 0;
+}
+```
+
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
 
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F512px-Typescript_logo_2020.svg.png&f=1&nofb=1" /> TypeScript 

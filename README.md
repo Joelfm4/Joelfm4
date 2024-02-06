@@ -46,24 +46,12 @@ int main() {
 <img width="20" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" /> Java
 
 
-<!--
-<img width="20" src="https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png" /> Java Script
-<img width="20" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1" /> ReactJS
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
--->
-
-
 <br>
-
-
-
 ## My Statistics
-
 <div align="center" class="flex-container">
  <img height="160em" width="50%" margin-right="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelfm4&layout=compact&langs_count=7&theme=transparent&include_allcommits=true"/>
  <img height="160em" width="50%" margin-right="0" src="https://github-readme-stats.vercel.app/api?username=joelfm4&theme=transparent&show_icons=true" />
 </div>
-
 
 <br/>
 

@@ -56,3 +56,11 @@ int main() {
 </div>
 
 <br/>
+
+## Ray-casting algorithm
+![image](raycastingf.png)
+
+## Brower
+![image](version1.png)
+
+

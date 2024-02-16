@@ -90,6 +90,19 @@ int main() {
 
 <br/>
 
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Joelfm4/FireBox" title="FireBox"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joelfm4&repo=FireBox&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Joelfm4/Ray-Casting" title="Ray-Casting"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joelfm4&repo=Ray-Casting&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+
+<h4 align="center">
+  <a href="https://github.com/Joelfm4?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
 <!--
 ## Ray-casting algorithm
 ![image](raycastingf.png)

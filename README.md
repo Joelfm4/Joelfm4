@@ -11,7 +11,7 @@
 
 - My journey began when I was still very young, not even in school yet. I started learning how computers worked by reading some books I had in the home library.
 
-- It wasn't until 2017 (eight years later) that I truly delved into learning the fundamentals of programming. I started coding in Java to create games. Yes, Java for making games - after all, in my mind, if Minecraft is made in Java, then Java should do the trick, right?
+- It wasn't until 2017 that I truly delved into learning the fundamentals of programming. I started coding in Java to create games. Yes, Java for making games - after all, in my mind, if Minecraft is made in Java, then Java should do the trick, right?
 
 
 ## Skills

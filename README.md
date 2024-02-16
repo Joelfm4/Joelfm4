@@ -60,7 +60,8 @@ int main() {
 ## Ray-casting algorithm
 ![image](raycastingf.png)
 
+<!--
 ## Brower (FireBox)
 ![image](version1.png)
-
+-->
 

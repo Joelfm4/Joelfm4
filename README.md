@@ -27,26 +27,17 @@ struct Joel
 
 int main()
 {
-
     struct Joel joel;
     joel.languages = malloc(6 * sizeof(char *));
-    joel.name = malloc((strlen("Joel") + 1) * sizeof(char));
-
-    strcpy(joel.name, "Joel");
-
+    joel.name = strdup("Joel");
     joel.age = 19;
+
+    const char *language_literals[] = {"Python", "C", "SQL", "JavaScript", "Java", "BASIC"};
 
     for (int i = 0; i < 6; i++)
     {
-        joel.languages[i] = malloc(20 * sizeof(char));
+        joel.languages[i] = strdup(language_literals[i]);
     }
-
-    strcpy(joel.languages[0], "Python");
-    strcpy(joel.languages[1], "C");
-    strcpy(joel.languages[2], "SQL");
-    strcpy(joel.languages[3], "JavaScript");
-    strcpy(joel.languages[4], "Java");
-    strcpy(joel.languages[5], "BASIC");
 
     printf("Name: %s\n", joel.name);
     printf("Age: %d\n", joel.age);
@@ -65,7 +56,6 @@ int main()
 
     return 0;
 }
-
 ```
 <div align="center">
     

@@ -15,30 +15,57 @@
 ## Skills
 ```
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 
-struct Joel {
-    char* languages[6];
-    char* name;
+struct Joel
+{
+    char **languages;
+    char *name;
     int age;
 };
 
-int main() {
-    struct Joel joel = {
-        .languages = {"Python", "C", "SQL", "Java Script", "Java", "BASIC"},
-        .name = "Joel",
-        .age = 19
-    };
+int main()
+{
+
+    struct Joel joel;
+    joel.languages = malloc(6 * sizeof(char *));
+    joel.name = malloc((strlen("Joel") + 1) * sizeof(char));
+
+    strcpy(joel.name, "Joel");
+
+    joel.age = 19;
+
+    for (int i = 0; i < 6; i++)
+    {
+        joel.languages[i] = malloc(20 * sizeof(char));
+    }
+
+    strcpy(joel.languages[0], "Python");
+    strcpy(joel.languages[1], "C");
+    strcpy(joel.languages[2], "SQL");
+    strcpy(joel.languages[3], "JavaScript");
+    strcpy(joel.languages[4], "Java");
+    strcpy(joel.languages[5], "BASIC");
 
     printf("Name: %s\n", joel.name);
     printf("Age: %d\n", joel.age);
     printf("Languages:\n");
-    for (int i = 0; i < 6; i++) {
+    for (int i = 0; i < 6; i++)
+    {
         printf("  %s\n", joel.languages[i]);
     }
 
+    free(joel.name);
+    for (int i = 0; i < 6; i++)
+    {
+        free(joel.languages[i]);
+    }
+    free(joel.languages);
+
     return 0;
 }
+
 ```
 <div align="center">
     

@@ -4,9 +4,6 @@
 
 <br>
 
-## About me
-
-- I'm a self-taught developer, and there's nothing quite like figuring out how things work on your own.
 
 
 ## Skills

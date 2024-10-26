@@ -25,7 +25,7 @@ int main()
     joel.name = strdup("Joel");
     joel.age = 19;
 
-    const char *language_literals[] = {"Python", "C++", "SQL", "JavaScript", "Java", "Lua"};
+    const char *language_literals[] = {"Python", "C++", "SQL", "TypeScript", "Java", "Lua"};
 
     for (int i = 0; i < 6; i++)
     {

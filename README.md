@@ -5,47 +5,41 @@
 
 <br>
 
-## Skills
+## About me
 ```
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
 
-struct Joel
-{
-    char **languages;
-    char *name;
+struct Profile {
     int age;
+    char name[50];
+    char *languages[10];
+    char *tools[10];
+    char *databases[5];
+    char *frameworks[10];
+}programmer = {
+    .age = 19,
+    .name = "Joel",
+    .languages = {"Python", "Assembly", "Java", "C++", "TypeScript", "PowerShell", "SQL", NULL},
+    .tools = {"Wireshark", "Burp", "Azure", "Jira", "Excel", "Figma", "Git", NULL},
+    .databases = {"Redis", "PostgreSQL", "Azure", NULL},
+    .frameworks = {"Django", "Flask", "Tailwind", "Bootstrap", "HTMX", NULL}
 };
 
-int main()
-{
-    struct Joel joel;
-    joel.languages = malloc(6 * sizeof(char *));
-    joel.name = strdup("Joel");
-    joel.age = 19;
-
-    const char *language_literals[] = {"Python", "C++", "SQL", "JavaScript", "Java", "Lua"};
-
-    for (int i = 0; i < 6; i++)
-    {
-        joel.languages[i] = strdup(language_literals[i]);
+void print_array(const char *category, char *arr[]) {
+    printf("\n### %s\n", category);
+    for(int i = 0; arr[i] != NULL; i++) {
+        printf("- %s\n", arr[i]);
     }
+}
 
-    printf("Name: %s\n", joel.name);
-    printf("Age: %d\n", joel.age);
-    printf("Languages:\n");
-    for (int i = 0; i < 6; i++)
-    {
-        printf("  %s\n", joel.languages[i]);
-    }
+int main() {
+    printf("# Hi there! 👋\n");
 
-    free(joel.name);
-    for (int i = 0; i < 6; i++)
-    {
-        free(joel.languages[i]);
-    }
-    free(joel.languages);
+    print_array("Languages", programmer.languages);
+    print_array("Development Tools", programmer.tools);
+    print_array("Databases", programmer.databases);
+    print_array("Frameworks", programmer.frameworks);
 
     return 0;
 }
@@ -64,7 +58,7 @@ int main()
 </div>
 <br>
 
-## My Statistics
+## Statistics
 
 <p align=center>
 

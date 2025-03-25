@@ -56,28 +56,27 @@ int main() {
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
     
 </div>
+
 <br>
 
-
-<p align=center>
+<div align=center>
 
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=joelfm4&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Joelfm4&theme=react&border=61dafb&hide_border=true" alt="streak-stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=joelfm4&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Joelfm4&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="stats"/>
     </a>
   </div>
 
   <br><br><br><br><br><br><br><br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelfm4&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<br/>
+</div>
 
 <br>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Joelfm4/jvim" title="Jvimx"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joelfm4&repo=jvim&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Joelfm4/Ray-Casting" title="Ray-Casting"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joelfm4&repo=Ray-Casting&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -88,13 +87,3 @@ int main() {
 <h4 align="center">
   <a href="https://github.com/Joelfm4?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-<!--
-## Ray-casting algorithm
-![image](raycastingf.png)
-
-## Brower (FireBox)
-![image](version1.png)
-![image](code.webp)
--->
-

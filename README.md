@@ -11,22 +11,16 @@
 #include <string.h>
 
 struct Profile {
-    int age;
-    char name[50];
-    char *languages[10];
-    char *tools[10];
-    char *databases[5];
-    char *frameworks[10];
-}programmer = {
-    .age = 19,
-    .name = "Joel",
+    char *languages[8];
+    char *frameworks[6];
+};
+
+struct Profile joel = {
     .languages = {"Python", "Assembly", "Java", "C++", "TypeScript", "PowerShell", "SQL", NULL},
-    .tools = {"Wireshark", "Burp", "Azure", "Jira", "Excel", "Figma", "Git", NULL},
-    .databases = {"Redis", "PostgreSQL", "Azure", NULL},
     .frameworks = {"Django", "Flask", "Tailwind", "Bootstrap", "HTMX", NULL}
 };
 
-void print_array(const char *category, char *arr[]) {
+void DisplayProfile(const char *category, char *arr[]) {
     printf("\n### %s\n", category);
     for(int i = 0; arr[i] != NULL; i++) {
         printf("- %s\n", arr[i]);
@@ -34,30 +28,12 @@ void print_array(const char *category, char *arr[]) {
 }
 
 int main() {
-    printf("# Hi there! 👋\n");
-
-    print_array("Languages", programmer.languages);
-    print_array("Development Tools", programmer.tools);
-    print_array("Databases", programmer.databases);
-    print_array("Frameworks", programmer.frameworks);
+    DisplayProfile("Languages", joel.languages);
+    DisplayProfile("Frameworks", joel.frameworks);
 
     return 0;
 }
 ```
-<div align="center">
-    
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-    
-</div>
-
-<br>
 
 <div align=center>
 

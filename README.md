@@ -1,16 +1,65 @@
-## Hi there 👋
+<br><br>
 
-<!--
-**Joelfm4/Joelfm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0290FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+there+👋;)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+
+```
+#include <stdio.h>
+#include <string.h>
+
+struct Profile {
+    char *languages[7];
+    char *frameworks[5];
+};
+
+struct Profile joel = {
+    .languages = {"C++", "Assembly", "Python", "PowerShell", "TypeScript", "SQL", NULL},
+    .frameworks = {"Django", "Flask", "Tailwind", "Bootstrap", NULL}
+};
+
+void DisplayProfile(const char *category, char *arr[]) {
+    printf("\n### %s\n", category);
+    for(int i = 0; arr[i] != NULL; i++) {
+        printf("- %s\n", arr[i]);
+    }
+}
+
+int main() {
+    DisplayProfile("Languages", joel.languages);
+    DisplayProfile("Frameworks", joel.frameworks);
+
+    return 0;
+}
+```
+
+<div align=center>
+
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Joelfm4&theme=react&border=61dafb&hide_border=true" alt="streak-stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Joelfm4&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="stats"/>
+    </a>
+  </div>
+
+  <br><br><br><br><br><br><br><br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelfm4&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+<br>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Joelfm4/jvim" title="Jvimx"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joelfm4&repo=jvim&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Joelfm4/Kernel-Driver" title="Kernel-Driver"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joelfm4&repo=Kernel-Driver&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/Joelfm4?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>

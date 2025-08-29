@@ -38,7 +38,7 @@ int main() {
 
   <img align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=Joelfm4&show_icons=true&theme=react&hide_border=true" alt="stats"/>
 
-  <img align="right" width=45% height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelfm4&layout=compact&theme=react&hide_border=true" alt="stats"/>
+  <img align="right" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelfm4&layout=compact&theme=react&hide_border=true" alt="stats"/>
 
   <br><br><br><br><br><br><br><br><br>
 

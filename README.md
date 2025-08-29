@@ -50,13 +50,6 @@ int main() {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelfm4&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
-<br>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Joelfm4/jvim" title="Jvimx"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joelfm4&repo=jvim&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Joelfm4/Kernel-Driver" title="Kernel-Driver"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joelfm4&repo=Kernel-Driver&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
